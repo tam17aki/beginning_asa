@@ -5,11 +5,11 @@
 
 ## Chapter1 基礎知識
 - 1.1 離散信号と波形の表示
-  - 1-1.py
+  - [1-1.py](https://github.com/tam17aki/beginning_asa/blob/main/python/chapter1/1-1.py)
 - 1.2 ベクトルと内積
-  - 1-2.py
+  - [1-2.py](https://github.com/tam17aki/beginning_asa/blob/main/python/chapter1/1-2.py)
 - 1.3 正弦波
-  - 1-3.py 
+  - [1-3.py](https://github.com/tam17aki/beginning_asa/blob/main/python/chapter1/1-3.py)
 - 1.4 複素数
-  - 1-4.py
+  - [1-4.py](https://github.com/tam17aki/beginning_asa/blob/main/python/chapter1/1-4.py)
 - 1.5 オイラーの公式
